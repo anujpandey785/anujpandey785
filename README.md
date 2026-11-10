@@ -1,16 +1,16 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Anuj</h1>
-<h3 align="center">Open Source Enthusiast passionate about Machine Learning, Data Science and Web Development</h3>
-<h3 align="center">Information Technology Engineering Sophomore from Pune Institute of Computer Technology, Pune, India</h3>
+<h3 align="center">AI Product Manager · Software engineer turned PM · Pune, India</h3>
+<p align="center"><a href="https://anuj-pandey.vercel.app"><b>🌐 Portfolio: anuj-pandey.vercel.app</b></a> · <a href="https://www.linkedin.com/in/anujpandeyproductmanager">LinkedIn</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujpandey785&label=Profile%20views&color=0e75b6&style=flat" alt="anujpandey785" /> </p>
 
-- 🔭 I’m currently working on **a Social Media Application Made Using Django**
+- 🚀 I find the real problem, validate it with quick prototypes and ship AI products in days. See how I work at [anuj-pandey.vercel.app](https://anuj-pandey.vercel.app)
 
-- 🔭 I recently filed my First [Bugzilla Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1692539)
+- 🦊 Open source: contributed to Mozilla Pontoon (featured in the [Mozilla L10n Report, Sept 2020](https://blog.mozilla.org/l10n/2020/09/25/l10n-report-september-2020-edition/)) and filed my first [Bugzilla bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1692539)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🛠️ I prototype with **Claude Code, Replit and n8n**, and measure with **PostHog**
 
-- 💬 Ask me about **Django, Html & Css**
+- 💬 Ask me about **AI products, product discovery and shipping v1 fast**
 
 - 📫 Reach me at **anujpandey785@gmail.com**
 
